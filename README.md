@@ -22,23 +22,26 @@
 ---
 
 ## Requirment
-
+```
+conda install PySimpleGUI, pandas, pillow
+   
+   ```
+   
 PySimpleGUI== 4.41.2
 pandas== 1.1.5
 pillow==8.0.0
 
 ---
 ## Demo
-
-
+in cmd or Teminal
+ ```
+python Agreement_gui_v1.py
+```
 
 ---
 ## Other
-#### Pre-training model with exBERT method
 
-To improve performance, pre-training the model with clinical report might help.
 
-Please check [exBERT](https://github.com/cgmhaicenter/exBERT) for more detail.
 
 ---
 
