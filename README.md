@@ -33,11 +33,6 @@ pillow==8.0.0
 
 
 ---
-
-## Training
-
-The pre-trained model used in this project is **SciBERT**  
-
 ## Other
 #### Pre-training model with exBERT method
 
