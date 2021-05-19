@@ -24,8 +24,7 @@
 ## Requirment
 ```
 conda install PySimpleGUI, pandas, pillow
-   
-   ```
+```
    
 PySimpleGUI== 4.41.2
 pandas== 1.1.5
@@ -34,7 +33,7 @@ pillow==8.0.0
 ---
 ## Demo
 in cmd or Teminal
- ```
+ ```cmd
 python Agreement_gui_v1.py
 ```
 
